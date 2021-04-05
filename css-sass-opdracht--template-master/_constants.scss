@@ -1,0 +1,10 @@
+$groen: #97d279;
+$licht-groen: #c0eea9;
+$standard-padding: 20px;
+
+
+@mixin text {
+    max-width: 700px;
+    text-align: center;
+    padding: 20px;
+}
